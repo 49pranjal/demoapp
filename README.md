@@ -1,2 +1,2 @@
 # demoapp
-search flickr images
+search flickr images from photos.search
